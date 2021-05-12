@@ -5,6 +5,7 @@ This [Udemy Course](https://www.udemy.com/course/typescript/) was taken to learn
 - Used TypeScript classes and error checking.
 - Create and extend TypeScript classes.
 - Share code via modules.
+- Used [Grunt](https://gruntjs.com/) JS task-runner and plugins
 
 ---
 
